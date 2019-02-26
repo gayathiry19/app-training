@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.otpam.appname" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
-    <name>App Name</name>
+<widget id="com.infitt.lengthworld" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+    <name>Length World</name>
     <description>
-     Mobile App Training
+    Learn the concept about length Year 3 and questions and answers about length Year 3 
     </description>
     <author email="info@otpam.com" href="http://otpam.com">
    OTPAM
